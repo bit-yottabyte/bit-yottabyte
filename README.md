@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bit-yottabyte
-- 👀 I’m interested in ... Penetration Testing, blockchains and machine learning
-- 🌱 I’m currently learning ... Penetration Testing
-- 💞️ I’m looking to collaborate on ... Blockchains
-- 📫 How to reach me ... vie email: AthavanJesunesan@gmail.com
+- 👀 I’m interested in ... Penetration Testing, blockchains, machine learning, and backend dev
+- 🌱 I’m currently learning ... backend development 
 
 <!---
 bit-yottabyte/bit-yottabyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
