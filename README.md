@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bit-yottabyte/count.svg?"  />
-</div>
-
 ###
 
 <h1>Hi 👋, I'm Athavan Jesunesan</h1>
